@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+  <h:permissions>
+    <h:file-system path="/" />
+    <h:capability name="web_file_system_access" />
+    <h:capability name="downloads" />
+  </h:permissions>
+</manifest>
