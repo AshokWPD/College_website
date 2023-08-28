@@ -1,4 +1,4 @@
-# dsa_web
+# College website
 
 A new Flutter project.
 
